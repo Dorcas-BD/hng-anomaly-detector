@@ -1,0 +1,4 @@
+detector/venv/
+detector/__pycache__/
+*.pyc
+*.pem
