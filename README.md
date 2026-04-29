@@ -1,6 +1,6 @@
 # HNG Anomaly Detection Engine
 
-A real-time DDoS and anomaly detection daemon built for HNG Stage 3 DevOps task.
+A real-time DDoS and anomaly detection daemon.
 Monitors Nginx HTTP traffic, learns normal baselines, and automatically blocks
 suspicious IPs using iptables.
 
