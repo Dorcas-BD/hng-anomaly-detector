@@ -2,3 +2,5 @@ detector/venv/
 detector/__pycache__/
 *.pyc
 *.pem
+detector/config.yaml
+detector/config.yaml
