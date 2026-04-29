@@ -110,3 +110,6 @@ detector/
       architecture.png
     screenshots/
     README.md
+
+## Blog Post
+[How I Built a Real-Time DDoS Detection Engine from Scratch](https://medium.com/@Dorcas_BD/how-i-built-a-real-time-ddos-detection-engine-from-scratch-e89e5a1ed478)
